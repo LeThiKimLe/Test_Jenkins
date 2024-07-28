@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestSearch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e38b33b8-bdb3-4b28-a324-b981d4f0afba</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9aa96ea1-acf7-48f2-b8a0-ad29b9033c4e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'shiba'</defaultValue>
+      <description></description>
+      <id>9aa96ea1-acf7-48f2-b8a0-ad29b9033c4e</id>
+      <masked>false</masked>
+      <name>searchKey</name>
+   </variable>
+</TestCaseEntity>
